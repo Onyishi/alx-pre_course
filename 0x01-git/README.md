@@ -1,1 +1,1 @@
-My first readme
+started coding on alx today
